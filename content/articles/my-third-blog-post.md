@@ -8,8 +8,7 @@ author:
   bio: Бизнесмен, Продюсер, Актёр, Преподаватель, Генеральный директор Communication Service Москва
   img: https://images.unsplash.com/photo-1506956191951-7a88da4435e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
 tags: 
-  - javascript
-  - web development
+  - создать сайт самостоятельно
 ---
 
 ## Welcome to my third blog post using content module
