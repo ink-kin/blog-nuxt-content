@@ -5,7 +5,7 @@ img: https://images.unsplash.com/photo-1588514727390-91fd5ebaef81?ixlib=rb-1.2.1
 alt: article 7
 author: 
   name: Илья Клишин
-  bio: All about Maria and where she works and what she does
+  bio: Бизнесмен, Продюсер, Актёр, Преподаватель, Генеральный директор Communication Service Москва
   img: https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2551&q=80
 tags: 
   - web development

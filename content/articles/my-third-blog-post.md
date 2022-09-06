@@ -5,7 +5,7 @@ img: https://images.unsplash.com/photo-1588010986054-727675e6f36a?ixlib=rb-1.2.1
 alt: my third blog post
 author: 
   name: Илья Клишин
-  bio: All about Alexandra and where she works and what she does
+  bio: Бизнесмен, Продюсер, Актёр, Преподаватель, Генеральный директор Communication Service Москва
   img: https://images.unsplash.com/photo-1506956191951-7a88da4435e5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
 tags: 
   - javascript
