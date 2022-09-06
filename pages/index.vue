@@ -23,7 +23,7 @@
             class="p-6 flex flex-col justify-between xxlmin:w-1/2 xxlmax:w-full"
           >
             <h2 class="font-bold">{{ article.title }}</h2>
-            <p>by {{ article.author.name }}</p>
+            <p>от {{ article.author.name }}</p>
             <p class="font-bold text-gray-600 text-sm">
               {{ article.description }}
             </p>
@@ -49,19 +49,16 @@
     </ul>
     <footer class="flex justify-center border-gray-500 border-t-2">
       <p class="mt-4">
-        Created by
-        <a
-          href="https://twitter.com/debs_obrien"
-          class="font-bold hover:underline"
-          >Debbie O'Brien</a
+        Создал
+        <a href="https://ilyaklishin.ru" class="font-bold hover:underline"
+          >Илья Клишин</a
         >
-        at NuxtJS. See the
+        на NuxtJS и Nuxt Content. Это сделано, как урок, с
         <a
-          href="https://nuxtjs.org/blog/creating-blog-with-nuxt-content"
+          href="https://github.com/ink-kin/blog-nuxt-content"
           class="font-bold hover:underline"
-          >tutorial</a
-        >
-        for how to build it.
+          >открытым кодом</a
+        >.
       </p>
     </footer>
   </div>

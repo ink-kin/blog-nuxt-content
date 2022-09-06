@@ -10,7 +10,7 @@
         :src="author.img"
       />
       <div class="flex flex-col m-4">
-        <h4 class="font-semibold">Author</h4>
+        <h4 class="font-semibold">Авторство</h4>
 
         <p>{{ author.name }}</p>
         <p>{{ author.bio }}</p>
